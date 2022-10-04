@@ -1,1 +1,1 @@
-# Codecademy-Events
+# Events_App
